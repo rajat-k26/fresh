@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "Sacramento", cursive;
+  src: url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+}
+@font-face {
+  font-family: 'Montserrat', sans-serif;
+  src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+}
+.profpic{
+  position: absolute;
+}
+.name{
+  font-size: 1.9em;
+  position: absolute;
+  top: 177px;
+  left: 400px;
+  color:#85C1E9;
+}
+.wt{
+  font-size: 23px;
+  position: absolute;
+  color: #064C7D;
+  font-family: cursive;
+  top: 320px;
+  left:460px;
+}
+#nam{
+  font-family: Sacramento, cursive;
+}
+body{
+  margin: 0;
+}
+/*table, tr, td {
+  border: 1px solid black;
+  align-content: center;
+}*/
+#nexthead1{
+  padding-top: 10px;
+  padding-left: 150px;
+  display: inline-block;
+}
+#nexthead2{
+  margin-right: 200px;
+  padding-left: 70px;
+  display: inline-block;
+}
+#nexthead3{
+  margin-top: 10px;
+  padding-left: 150px;
+  display: inline-block;
+}
+.imgright{
+  padding-right: 30px;
+  padding-top: 5px;
+  float: right;
+}
+.nextcontent{
+  text-align: center;
+}
+.imgleft{
+  float: left;
+  padding-left: 30px;
+}
+#hob{
+  font-size: 20px;
+  margin-left: 60px;
+}
+#contacthead{
+  font-size: 28px;
+  text-align: center;
+}
+.link{
+  margin-left: 496px;
+  display: inline-block;
+}
+.link1{
+  display: inline-block;
+  margin-bottom: 14px;
+  margin-left: 18px;
+}
+#row1:hover{
+
+  font-family: 'Montserrat', sans-serif;
+  background-image: url("wind.png");
+}
+#row2:hover{
+
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  background-image: url("wind.png");
+}
+#row3:hover{
+
+  font-family: 'Montserrat', sans-serif;
+   background-image: url("wind.png");
+}
+#row1{
+  font-family: cursive;
+}
+#row2{
+  color: #D6EAF8;
+  font-family: cursive;
+}
+#row3{
+  font-family: cursive;
+}
+.data{
+  margin-top: 457px;
+  position: absolute;
+}
